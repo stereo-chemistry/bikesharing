@@ -4,7 +4,7 @@ This project is an analysis of NYC Citi Bike  data in Tableau. "Citi Bike is a p
 ### Purpose
 The purpose of this project is to break NYC Citi Bike data into sophisticated visualizations in order to determine and support the eligibility of opening a similar bike rental service in Des Moines, IA. In order to determine and support the eligibility for a similar bike rental service in Des Moines, this project aims to break the NYC Citi Bike data for August 2019 into relevant pieces that can be easily visualized and studied in Tableau. Data analysis in Tabeau gives most popular starting destinations, peak hours of use, and analysis of bike use by time of day, day of week, gender and customer vs. subscriber.
 ## Results
-* Figure 1 below gives the total # of NYC Citi Bike rides in August, rider breakdown by usertype and gender, and hours of bike checkout.
+* Figure 1+ below gives the total # of NYC Citi Bike rides in August, rider breakdown by usertype and gender, and hours of bike checkout.
 
 ![](images/August_Peak_Hours.png)
 
