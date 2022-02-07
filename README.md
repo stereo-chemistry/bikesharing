@@ -10,29 +10,31 @@ The purpose of this project is to break NYC Citi Bike data into sophisticated vi
 
 * Figure 2 below gives the most popular starting locations for NYC Citi Bike
 
-![](images/Popular_Starting_Locations)
+![](images/Popular_Starting_Locations.png)
 
 * Figure 3 below gives NYC Citi Bike use duration
+  * 0, 1 & 2 listed at the top of the x axis correspond to the number of completed hours of bike use before adding minutes at the bottom of the x axis.
 
-![](images/Use_Duration)
+![](images/Use_Duration.png)
 
 * Figure 4 below gives NYC Citi Bike use duration by gender
+  * 0, 1 & 2 listed at the top of the x axis correspond to the number of completed hours of bike use before adding minutes at the bottom of the x axis.
 
-![](images/Use_Duration_by_Gender)
+![](images/Use_Duration_by_Gender.png)
 
-* Figure 5 below gives a heatmap of NYC Citi Bike use by day of week and time of day. 
+* Figure 5 below gives a heatmap of NYC Citi Bike checkout times by day of week and time of day. 
   * The darker the shade of orange, the greater the bike usage scaling from 360 minumum to 44,905 maximum.
 
-![](images/Use_Heat_Map)
+![](images/Use_Heat_Map.png)
 
 * Figure 6 below gives the same heatmap in figure 5 further broken frther by rider gender.
   * The darker the shade of orange, the greater the bike usage scaling from 37 minumum to 30,749 maximum.
 
-![](images/Use_Heat_Map_by_Gender)
+![](images/Use_Heat_Map_by_Gender.png)
 
 * Figure 7 below gives a heatmap of NYC Citi Bike use per day of week by gender and usertype (customer or subscriber).
   * The darker the shade of blue, the greater the bike usage scaling from 3,528 minimum to 259,316 maximum.
 
-![](images/Use_Heat_map_by_Gender_and_Usertype)
+![](images/Use_Heat_Map_by_Gender_and_Usertype.png)
 ## Citations
 1. https://en.wikipedia.org/wiki/Citi_Bike
