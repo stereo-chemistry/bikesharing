@@ -36,5 +36,8 @@ The purpose of this project is to break NYC Citi Bike data into sophisticated vi
   * The darker the shade of blue, the greater the bike usage scaling from 3,528 minimum to 259,316 maximum.
 
 ![](images/Use_Heat_Map_by_Gender_and_Usertype.png)
+
+## Summary
+The results breakdown popular starting location in NYC and bike checkout times by day of week, time of day, gender and usertype (customer or subscriber). These results help paint an image of where bikes for our Des Moines bike rental service, and when bikes should be maintained in order to ensure that they are most available during peak usage. Additional visualizations that could be useful to include are usertype by birthyear; this could inform our decisions of whether to include incentives or marked down prices of subscription prices for people of certain age ranges. Another useful visualization is to track bike usage by day of month and across multiple months for insight into bike use trends.
 ## Citations
 1. https://en.wikipedia.org/wiki/Citi_Bike
