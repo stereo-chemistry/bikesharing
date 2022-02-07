@@ -41,3 +41,5 @@ The purpose of this project is to break NYC Citi Bike data into sophisticated vi
 The results breakdown popular starting location in NYC and bike checkout times by day of week, time of day, gender and usertype (customer or subscriber). These results help paint an image of where bikes for our Des Moines bike rental service, and when bikes should be maintained in order to ensure that they are most available during peak usage. Additional visualizations that could be useful to include are usertype by birthyear; this could inform our decisions of whether to include incentives or marked down prices of subscription prices for people of certain age ranges. Another useful visualization is to track bike usage by day of month and across multiple months for insight into bike use trends.
 ## Citations
 1. https://en.wikipedia.org/wiki/Citi_Bike
+## Tableau Link
+https://public.tableau.com/app/profile/kelsey1746/viz/bikesharing2_16441954139080/NYCStory
