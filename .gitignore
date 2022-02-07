@@ -1,0 +1,6 @@
+#ignore large .csv files
+201908-citibike-tripdata-adjusted.csv
+201908-citibike-tripdata.csv
+
+#ignore ipynb checkpoints
+.ipynb_checkpoints
